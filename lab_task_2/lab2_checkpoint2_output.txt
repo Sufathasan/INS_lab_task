@@ -1,0 +1,82 @@
+
+  SUBSTITUTION CIPHER BREAKER
+         ANALYZING CIPHER-1
+
+CIPHER-1 LETTER FREQUENCY
+Letter | Count | Percentage
+-------|-------|------------
+   i   |   46   |  11.33%
+   d   |   36   |  8.87%
+   c   |   33   |  8.13%
+   p   |   32   |  7.88%
+   a   |   31   |  7.64%
+   f   |   30   |  7.39%
+   r   |   23   |  5.67%
+   e   |   22   |  5.42%
+   k   |   19   |  4.68%
+   g   |   19   |  4.68%
+   n   |   16   |  3.94%
+   q   |   15   |  3.69%
+   v   |   13   |  3.20%
+   u   |   13   |  3.20%
+   t   |   11   |  2.71%
+   o   |   11   |  2.71%
+   x   |   10   |  2.46%
+   w   |    8   |  1.97%
+   m   |    7   |  1.72%
+   h   |    6   |  1.48%
+   l   |    3   |  0.74%
+   s   |    1   |  0.25%
+   j   |    1   |  0.25%
+
+
+FINAL SUBSTITUTION MAPPING:
+a->i  b->v  c->t  d->f  e->h  f->n  g->d  h->b  i->e  j->q  k->r  l->k  m->g  n->l  o->m  p->a  q->c  r->s  s->z  t->w  u->o  v->u  w->y  x->p  y->x  z->j  
+
+
+ DECRYPTED CIPHER-1 
+
+in a particular and, in each case, diooerent way, these ofur were indispensable tf him--yugf amaryl, because fo his quick understanding fo the principles fo psychfhistfry and fo his imaginatize prfbings intf new areas. it was cfmofrting tf knfw that io anything happened tf seldfn himselo beofre the mathematics fo the oield cfuld be cfmpletely wfrked fut--and hfw slfwly it prfceeded, and hfw mfuntainfus the fbstacles--there wfuld at least remain fne gffd mind that wfuld cfntinue the research
+         
+
+ANALYZING CIPHER-2
+
+CIPHER-2 LETTER FREQUENCY
+Letter | Count | Percentage
+-------|-------|------------
+   u   |  198   |  12.80%
+   k   |  132   |  8.53%
+   o   |  131   |  8.47%
+   h   |  113   |  7.30%
+   c   |  102   |  6.59%
+   l   |   97   |  6.27%
+   z   |   95   |  6.14%
+   m   |   95   |  6.14%
+   v   |   85   |  5.49%
+   j   |   74   |  4.78%
+   e   |   71   |  4.59%
+   a   |   47   |  3.04%
+   q   |   42   |  2.71%
+   w   |   38   |  2.46%
+   s   |   38   |  2.46%
+   n   |   37   |  2.39%
+   t   |   34   |  2.20%
+   d   |   29   |  1.87%
+   y   |   28   |  1.81%
+   g   |   28   |  1.81%
+   p   |   22   |  1.42%
+   r   |    7   |  0.45%
+   b   |    4   |  0.26%
+
+
+FINAL SUBSTITUTION MAPPING:
+a->v  b->u  c->s  d->h  e->a  f->l  g->m  h->n  i->f  j->q  k->p  l->o  m->r  n->w  o->g  p->y  q->z  r->x  s->i  t->c  u->e  v->t  w->j  x->k  y->d  z->b  
+
+
+ DECRYPTED CIPHER-2 
+
+vsavn cgb yetm tsho grq yetm dehzasgt, grq ogq veer poe cnrqet ni poe boste int bsupm megtb, eyet bsrhe osb tejgtxgvae qsbgddegtgrhe grq zreudehpeq tepztr. poe tshoeb oe ogq vtnzwop vghx itnj osb ptgyeab ogq rnc vehnje g anhga aewerq, grq sp cgb dndzagtam veaseyeq, cogpeyet poe naq inax jswop bgm, pogp poe osaa gp vgw erq cgb izaa ni pzrreab bpziieq cspo ptegbzte. grq si pogp cgb rnp ernzwo int igje, poete cgb gabn osb dtnanrweq yswnzt pn jgtyea gp. 
+psje cnte nr, vzp sp beejeq pn ogye asppae eiiehp nr jt. vgwwsrb. gp rsrepm oe cgb jzho poe bgje gb gp isipm. gp rsrepm-rsre poem vewgr pn hgaa osj ceaa-dtebetyeq; vzp zrhogrweq cnzaq ogye veer regtet poe jgtx. poete cete bnje pogp bonnx poest oegqb grq ponzwop posb cgb pnn jzho ni g wnnq posrw; sp beejeq zrigst pogp grmnre bonzaq dnbbebb (gddgterpam) detdepzga mnzpo gb ceaa gb (tedzpeqam) sreuogzbpsvae cegapo. sp csaa ogye pn ve dgsq int, poem bgsq. 
+sp sbr'p rgpztga, grq ptnzvae csaa hnje ni sp! vzp bn igt ptnzvae ogq rnp hnje; grq gb jt. vgwwsrb cgb weretnzb cspo osb jnrem, jnbp dendae cete csaasrw pn intwsye osj osb nqqspseb grq osb wnnq intpzre. oe tejgsreq nr ysbspsrw petjb cspo osb teagpsyeb (euhedp, ni hnztbe, poe bghxysaaevgwwsrbeb), grq oe ogq jgrm qeynpeq gqjstetb gjnrw poe onvvspb ni dnnt grq zrsjdntpgrp igjsaseb. vzp oe ogq rn hanbe itserqb, zrpsa bnje ni osb mnzrwet hnzbsrb vewgr pn wtnc zd. 
+poe eaqebp ni poebe, grq vsavn'b igynztspe, cgb mnzrw itnqn vgwwsrb. coer vsavn cgb rsrepm-rsre oe gqndpeq itnqn gb osb oest, grq vtnzwop osj pn asye gp vgw erq; grq poe ondeb ni poe bghxysaae- vgwwsrbeb cete isrgaam qgboeq. vsavn grq itnqn ogddereq pn ogye poe bgje vstpoqgm, bedpejvet 22rq. mnz ogq veppet hnje grq asye oete, itnqn jm agq, bgsq vsavn nre qgm; grq poer ce hgr heaevtgpe nzt vstpoqgm-dgtpseb hnjintpgvam pnwepoet. gp pogp psje itnqn cgb bpsaa sr osb
+ pceerb, gb poe onvvspb hgaaeq poe sttebdnrbsvae pcerpseb vepceer hosaqonnq grq hnjsrw ni gwe gp postpm-potee
